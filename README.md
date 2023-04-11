@@ -13,9 +13,9 @@
 
 - ⚡ Interested in **Fitness,Travelling,Music Production**
 
-- 🏆 Certification:
-        -  Microsoft Certified: **Azure Data Fundamentals**
-        -  Microsoft Certified: **Security, Compliance, and Identity Fundamentals**
+- 🎖️ Certification:<br>
+         👉🏻 Microsoft Certified: **Azure Data Fundamentals** <br>
+         👉🏻 Microsoft Certified: **Security, Compliance, and Identity Fundamentals**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
