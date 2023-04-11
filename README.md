@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sunilraghu199@gmail.com**
 
-- ⚡ Intersted in **Fitness,Travelling,Music Production**
+- ⚡ Interested in **Fitness,Travelling,Music Production**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
