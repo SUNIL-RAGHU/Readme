@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SUNIL-RAGHU](https://github.com/SUNIL-RAGHU)
 
-- 📝 I regularly write articles on [https://medium.com/@sunilraghu199](https://medium.com/@sunilraghu199)
-
 - 💬 Ask me about **Flutter and DotNet**
 
 - 📫 How to reach me **sunilraghu199@gmail.com**
