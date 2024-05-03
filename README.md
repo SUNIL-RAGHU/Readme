@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Sunil</h1>
-<h3 align="center">👨🏻‍💻DotNet and Mobile App Developer</h3>
+<h1 align="center">Hi 👋, I'm Sunil Raghu</h1>
+<h3 align="center">👨🏻‍💻Software Engineer</h3>
 
 - 🔭 I’m currently Studying in **Vellore Institute of Technology,Vellore**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SUNIL-RAGHU](https://github.com/SUNIL-RAGHU)
 
-- 💬 Ask me about **Flutter and DotNet**
 
 - 📫 How to reach me **sunilraghu199@gmail.com**
 
